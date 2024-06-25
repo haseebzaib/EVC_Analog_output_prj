@@ -1,0 +1,9 @@
+../Application/SIO/sio.c:26:13:sio_check_UartEvent	16	static
+../Application/SIO/sio.c:83:16:sio_uart_rxRec	32	static
+../Application/SIO/sio.c:122:12:sio_RxBlockStart	8	static
+../Application/SIO/sio.c:138:12:sio_TxBlockStart	16	static
+../Application/SIO/sio.c:166:12:sio_opRq	8	static
+../Application/SIO/sio.c:213:13:sio_task	8	static
+../Application/SIO/sio.c:243:13:sio_init	8	static
+../Application/SIO/sio.c:256:12:sio_RxIntS0	16	static
+../Application/SIO/sio.c:273:6:HAL_UART_TxCpltCallback	16	static

@@ -1,0 +1,4 @@
+../Application/dac161s997/dac161s997.c:33:5:dac161s997_init	24	static
+../Application/dac161s997/dac161s997.c:84:5:dac161s997_set_output	16	static
+../Application/dac161s997/dac161s997.c:93:5:dac161s997_set_alarm	16	static
+../Application/dac161s997/dac161s997.c:114:5:dac161s997_get_status	32	static

@@ -1,0 +1,4 @@
+../Application/dac161s997/dac161s997_regs.c:22:5:dac161s997_write_reg	24	static
+../Application/dac161s997/dac161s997_regs.c:39:5:dac161s997_read_reg	24	static
+../Application/dac161s997/dac161s997_regs.c:45:12:_dac161s997_op_reg	48	static
+../Application/dac161s997/dac161s997_regs.c:79:13:_inter_packet_delay	8	static

@@ -1,0 +1,9 @@
+../Application/SIO/sio.c:26:13:sio_check_UartEvent	5
+../Application/SIO/sio.c:83:16:sio_uart_rxRec	3
+../Application/SIO/sio.c:122:12:sio_RxBlockStart	1
+../Application/SIO/sio.c:138:12:sio_TxBlockStart	1
+../Application/SIO/sio.c:166:12:sio_opRq	1
+../Application/SIO/sio.c:213:13:sio_task	2
+../Application/SIO/sio.c:243:13:sio_init	1
+../Application/SIO/sio.c:256:12:sio_RxIntS0	2
+../Application/SIO/sio.c:273:6:HAL_UART_TxCpltCallback	1
